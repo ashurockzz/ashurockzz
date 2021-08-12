@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ashurockzz
-- 👀 I’m interested in learnimg coding
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Ashutosh :)
+- 👀 I’m interested in learning coding :)
+- 🌱 I’m currently learning python and java :)
+- 💞️ I’m looking to collabrate on coding only ;)
 - 📫 How to reach me... email- patnaashutosh@gmail.com
 
 <!---
