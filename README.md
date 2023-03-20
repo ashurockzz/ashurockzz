@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vuejs,React and ML**
 
-- 🤝 I’m looking for help with [ML on](my current project)
+- 🤝 I’m looking for help with ML on my current project
 
 - 💬 Ask me about **nodejs, python and cpp**
 
